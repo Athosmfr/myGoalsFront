@@ -77,7 +77,10 @@ The design of this project was inspired by Positivus Landing Page Design (Commun
 - Google Fonts: Fonts used in the application are sourced from Google Fonts to ensure a clean and modern look.
 
 ## 🎨 Screenshots
-(Add screenshots here.)
+![Goals-Home](https://github.com/user-attachments/assets/b92563ff-26e6-405e-b687-fff701e7959e)
+![Goals-Login](https://github.com/user-attachments/assets/8bea2591-fb4d-4ffe-8a8c-04afc8e57723)
+![Goals-Image](https://github.com/user-attachments/assets/aef37a39-7efc-41b6-96a7-275f4b69cdc5)
+![GoalsCreate-Image](https://github.com/user-attachments/assets/8dc6db40-4e7c-45aa-a87a-a1d26d28f711)
 
 ## 🔧 Security
 This project relies on secure authentication handled by the My Goals API using JWT tokens. All sensitive user data is protected, and only authenticated users can access their own goals and personal information.
