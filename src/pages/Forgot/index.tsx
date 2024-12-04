@@ -18,7 +18,7 @@ export function Forgot() {
         <>
             <div className="bg-[#191A23] px-32 min-h-screen">
                 <div className="flex h-16 pt-12 pb-14">
-                    <h1 className="font-bold text-4xl text-white">Logohere</h1>
+                    <h1 className="font-bold text-4xl text-white">myGoals</h1>
                 </div>
                 <div className="flex flex-col pt-14 items-center justify-center">
                     <div className="flex flex-col items-center mb-20 w-full">

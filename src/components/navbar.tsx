@@ -23,7 +23,7 @@ export function Navbar() {
     <nav className="w-full px-6 h-16 flex justify-between items-center pt-12">
         <div className="flex items-center">
           <Link to="/"><img src="" alt="" /></Link>
-          <h1 className="font-bold text-4xl"><Link to="/">Logohere</Link></h1>
+          <h1 className="font-bold text-4xl"><Link to="/">myGoals</Link></h1>
         </div>
         <ul className="flex items-center w-[525px] justify-between">
           <li className="text-xl"><Link to="/">Home</Link></li>
