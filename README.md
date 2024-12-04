@@ -2,6 +2,9 @@
 
 My Goals Front-End is a web application designed to interact with the **My Goals API** (a Java Spring Boot API). This project allows users to manage their personal goals in a seamless and user-friendly interface. It integrates with the API to provide user authentication, goal management, and other related functionalities.
 
+### Note
+To fully utilize this front-end project, you must also use the **My Goals API**, which I developed and is available on my GitHub. Download the API from this link: [My Goals API](https://github.com/Athosmfr/myGoalsAPI), and follow the installation steps provided to set it up. Once configured, the API will work seamlessly with this front-end project.
+
 ## 💻 Technologies
 
 - **React**
